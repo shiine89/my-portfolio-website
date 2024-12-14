@@ -13,3 +13,10 @@ instgram= the_ashiin3_  or phone+252-63-3251484/090-5816269
 shiine89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+##
+
+![preview](https://github.com/user-attachments/assets/6876b20a-8b8f-4e6f-a168-09bfa3aa530a)
+
